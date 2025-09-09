@@ -1,0 +1,18 @@
+Python virtual environment
+venv/
+
+IDE-specific files
+.vscode/
+
+Other common files to ignore
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.env
+
+Data and logs
+*.log
+*.sqlite
+*.db
